@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Find out what type of fence you are!
  *
- * @author Mostyn Trudinger-Smith
+ * @author Mostyn Trudinger-Smith :(
  * @version 8/28/18
  */
 public class BuzzFeedQuiz
